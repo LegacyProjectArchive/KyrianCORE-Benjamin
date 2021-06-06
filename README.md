@@ -1,4 +1,4 @@
-Kyrian Source Thordekk & Hollydew
+Kyrian Source  Holydeew
 --------------
 
 
@@ -41,6 +41,3 @@ Read file [COPYING](COPYING).
 Read file [AUTHORS](AUTHORS).
 
 
-## Links
-Donations: 
-https://www.paypal.com/paypalme/thordekk
